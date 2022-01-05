@@ -25,7 +25,7 @@ Bitte folgende Schritte vorbereiten:
 
 ## Dokumentation
 
-Das Script legt alle Informationen und Berichte im Ordner `C:\Speedest` ab.
+Das Script legt alle Informationen und Berichte im Ordner `C:\Speedtest` ab.
 
 Zu jedem Speedtest wird ein Screenshot nach dem Muster `YYYY-MM-DD_hh-mm-ss_ID.png` abgelegt. Alle Speedtests werden in der `results.xlsx` dokumentiert.
 
