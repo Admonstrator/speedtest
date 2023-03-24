@@ -1,5 +1,11 @@
 # Vodafone Speedtest
 
+==Dieses Script wird nicht länger gewartet und funktioniert vermutlich nicht mehr ordnungsgemäß!==
+
+------
+
+
+
 ## Einleitung
 
 Dieser Speedtest basiert auf dem [Vodafone Speedtest](https://speedtest.vodafone.de) und nutzt das [Browser Automation Studio](https://bablosoft.com/shop/BrowserAutomationStudio#download) für die Auswertung. Durch dieses Script ist es möglich, dass automatisiert Speedtests durchgeführt und auch geloggt werden.
